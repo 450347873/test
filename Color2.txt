@@ -27,4 +27,4 @@ g
 
 https://go-api.qbaor.com/Ts_Html/ActAwardShare/jump.html
 
-3748版本 图书馆css text-align改成left  
+3748版本 图书馆css text-align改成left   
